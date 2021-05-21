@@ -8,7 +8,7 @@
    [<img alt="Lolero_2000 | Twitter" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F06%2FTwitter-Logo.png&f=1&nofb=1" />][twitter]
    [<img alt="Lolero_2000 | Telegram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FTelegram_2019_Logo.svg%2F1024px-Telegram_2019_Logo.svg.png&f=1&nofb=1" />][telegram]
    [<img alt="Lolero_2000 | Instagram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2019%2F11%2FInstagram-logo.png&f=1&nofb=1" />][instagram]
-   [<img alt="uuuuh misteryous button" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2FLTK%2FzRE%2FLTKzREpGc.png&f=1&nofb=1" />][uuuh]
+   [<img alt="uuuuh misteryous button" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fquestion_mark%2Fquestion_mark_PNG130.png&f=1&nofb=1" />][uuuh]
 
 ---
 
