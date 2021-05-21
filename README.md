@@ -5,7 +5,7 @@
 - 📫 You can contact me here: javibarpe@hotmail.com
 
 ### ✨My socials✨:
-[<img alt="Lolero_2000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="Lolero_2000 | Twitter" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F06%2FTwitter-Logo.png&f=1&nofb=1" />][twitter]
 [<img alt="Lolero_2000 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 ---
