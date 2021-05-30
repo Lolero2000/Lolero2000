@@ -1,7 +1,7 @@
 ### ¡Hola!👋 Soy Javi. Hi! I'm Javi.
 
 - 🔭 I’m currently studying my degree in Computer Engineering at University of Murcia (my third year!). 
--  📍 I live in Cartagena (Spain). 
+-  📍  I live in Cartagena (Spain). 
 - 📫 You can contact me here: javibarpe@hotmail.com
 
 ### ✨My socials✨:
