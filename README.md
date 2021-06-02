@@ -2,9 +2,9 @@
 
 
 - 😄 He/him
-- 🌱 I’m currently learning React and Gatsby.
 - 🔭 I’m currently studying my degree in Computer Engineering at University of Murcia (my third year!). 
--  📍  I live in Cartagena (Spain). 
+-  📍 I live in Cartagena (Spain). 
+- 🌱 I’m currently learning React and Gatsby.
 - 📫 You can contact me here: javibarpe@hotmail.com
 
 ### ✨My socials✨:
