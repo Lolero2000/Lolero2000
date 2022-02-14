@@ -17,7 +17,7 @@
 ---
 
 [telegram]: https://t.me/Lolero_2000
-[instagram]: https://www.instagram.com/lolero_2000
+[instagram]: https://www.instagram.com/javierbarcelop
 [linkedin]: https://www.linkedin.com/in/javier-barceló-pérez-6b6422207/
 [uuuh]: https://matias.ma/nsfw/
 
