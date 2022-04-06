@@ -4,7 +4,7 @@
 - 😄 He/him
 - 🔭 I’m currently studying my degree in Computer Engineering at University of Murcia (my fourth year!). 
 - 📍 I live in Cartagena (Spain). 
-- 🌱 I’m currently learning React and Gatsby.
+- 🌱 I’m currently learning OpenMP, CUDA and Bluetooth Communications Programming.
 - 📫 You can contact me here: javibarpe@hotmail.com
 
 ### ✨My socials✨:
