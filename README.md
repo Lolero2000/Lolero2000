@@ -2,9 +2,9 @@
 
 
 - 😄 He/him
-- 🔭 I’m currently studying my degree in Computer Engineering at University of Murcia (my fourth year!). 
+- 🔭 I’m currently studying my degree in Computer Engineering at University of Murcia. 
 - 📍 I live in Cartagena (Spain). 
-- 🌱 I’m currently learning OpenMP, CUDA and Bluetooth Communications Programming.
+- 🌱 I’m currently learning CUDA and Linux Kernel Programming.
 - 📫 You can contact me here: javibarpe@hotmail.com
 
 ### ✨My socials✨:
@@ -12,14 +12,12 @@
    [<img alt="jbarceloperez | Telegram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FTelegram_2019_Logo.svg%2F1024px-Telegram_2019_Logo.svg.png&f=1&nofb=1" />][telegram]
    [<img alt="jbarceloperez | Instagram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2019%2F11%2FInstagram-logo.png&f=1&nofb=1" />][instagram]
    [<img alt="jbarceloperez | LinkedIn" width="22px" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" />][linkedin]
-   [<img alt="uuuuh misteryous button" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fquestion_mark%2Fquestion_mark_PNG130.png&f=1&nofb=1" />][uuuh]
 
 ---
 
-[telegram]: https://t.me/Lolero_2000
+[telegram]: https://t.me/javibarcelo
 [instagram]: https://www.instagram.com/javibarcelop
 [linkedin]: https://www.linkedin.com/in/javier-barceló-pérez-6b6422207/
-[uuuh]: https://matias.ma/nsfw/
 
 ### ✨Some fancy stuff✨:
 
