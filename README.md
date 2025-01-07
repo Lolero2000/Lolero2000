@@ -2,7 +2,7 @@
 
 
 - 😄 He/him
-- 🔭 I’m currently studying my degree in Computer Engineering at University of Murcia. 
+- 🔭 University of Murcia. 
 - 📍 I live in Cartagena (Spain). 
 - 🌱 I’m currently learning CUDA and Linux Kernel Programming.
 - 📫 You can contact me here: javibarpe@hotmail.com
