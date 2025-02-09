@@ -4,7 +4,7 @@
 - 😄 He/him
 - 🔭 University of Murcia. 
 - 📍 I live in Cartagena (Spain). 
-- 🌱 I’m currently learning CUDA and Linux Kernel Programming.
+- 🌱 I’m currently learning Server Services Deployment.
 - 📫 You can contact me here: javibarpe@hotmail.com
 
 ### ✨My socials✨:
